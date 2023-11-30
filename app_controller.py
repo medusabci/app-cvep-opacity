@@ -131,7 +131,7 @@ class AppController(TCPServer):
         msg["color_op_text_1"] = self.app_settings.colors.color_op_text_1
         msg["scenario_name"] = self.app_settings.background.scenario_name
         msg["color_background"] = self.app_settings.background.color_background
-        msg["scenario_file_name"] = self.app_settings.background.scenario_file_name
+        msg["scenario_path"] = self.app_settings.background.scenario_path
 
         self.send_command(msg)
 

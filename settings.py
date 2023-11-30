@@ -283,11 +283,11 @@ class Colors:
 
 
 class Background:
-    def __init__(self, scenario_name='Solid Color', color_background='#a3bec7', scenario_path='', scenario_file_name=''):
+    def __init__(self, scenario_name='Solid Color', color_background='#a3bec7', scenario_path=''):
         self.scenario_name = scenario_name
         self.color_background = color_background
         self.scenario_path = scenario_path
-        self.scenario_file_name = scenario_file_name
+
 
 class CVEPMatrix:
 

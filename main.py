@@ -113,7 +113,7 @@ class App(resources.AppSkeleton):
         )
 
         # Debugging?
-        self.is_debugging = True
+        self.is_debugging = False
 
     def handle_exception(self, ex):
         if not isinstance(ex, exceptions.MedusaException):

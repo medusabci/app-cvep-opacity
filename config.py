@@ -4,7 +4,6 @@ from PyQt5.QtCore import Qt
 from gui import gui_utils
 from . import settings
 import os
-import shutil
 import glob
 import json
 from functools import partial
@@ -607,9 +606,6 @@ class Config(QtWidgets.QDialog, ui_main_file):
         self.settings.background.color_background = gui_utils.get_property(
             self.btn_color_background, 'background-color')
         self.settings.background.scenario_path = self.lineEdit_scenario.text()
-        scenario_path_unity = (shutil.copy2(self.settings.background.scenario_path,
-                         os.path.dirname(__file__) + r'\unity-src\Assets\Resources\BackgroundScenarios'))
-        self.settings.background.scenario_file_name = os.path.splitext(os.path.basename(scenario_path_unity))[0]
 
     def update_gui(self):
         self.get_settings_from_gui()
