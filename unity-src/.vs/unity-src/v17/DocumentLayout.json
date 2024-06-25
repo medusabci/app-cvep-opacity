@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0BEF2-F02E-113E-1B3F-7565562AF589}|Assembly-CSharp.csproj|D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\assets\\scripts\\messageinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0BEF2-F02E-113E-1B3F-7565562AF589}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messageinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0BEF2-F02E-113E-1B3F-7565562AF589}|Assembly-CSharp.csproj|D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\assets\\scripts\\medusatcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0BEF2-F02E-113E-1B3F-7565562AF589}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\medusatcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0BEF2-F02E-113E-1B3F-7565562AF589}|Assembly-CSharp.csproj|d:\\usuarios\\gib\\documents\\medusa\\medusa-platform\\src\\accounts\\anamf1\\apps\\cvep_opacity\\unity-src\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0BEF2-F02E-113E-1B3F-7565562AF589}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\Assets\\Scripts\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager.cs",
+              "ToolTip": "D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\Assets\\Scripts\\Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager.cs",
+              "ViewState": "AQIAAKgCAAAAAAAAAAAowN4CAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:51:05.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedusaTCPClient.cs",
+              "DocumentMoniker": "D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\Assets\\Scripts\\MedusaTCPClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MedusaTCPClient.cs",
+              "ToolTip": "D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\Assets\\Scripts\\MedusaTCPClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MedusaTCPClient.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:50:59.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageInterpreter.cs",
+              "DocumentMoniker": "D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\Assets\\Scripts\\MessageInterpreter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageInterpreter.cs",
+              "ToolTip": "D:\\Usuarios\\GIB\\Documents\\MEDUSA\\medusa-platform\\src\\accounts\\AnaMF1\\apps\\cvep_opacity\\unity-src\\Assets\\Scripts\\MessageInterpreter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MessageInterpreter.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:50:53.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
