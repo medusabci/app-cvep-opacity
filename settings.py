@@ -90,6 +90,7 @@ class Settings(SerializableComponent):
                         run_settings=run_sett,
                         timings=timings,
                         colors=colors,
+                        background=background,
                         matrices=matrices)
 
     def set_matrices(self, train_matrices, test_matrices):
